@@ -1,7 +1,7 @@
 # First_project
 Software carpentry workshop github tutorial.
 Contains great code for data analysis with python.
-
+EHH Macarena
 ## Usage
 BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH
 
